@@ -10,7 +10,7 @@
 
   <h2 align="center">Login & Signup Website</h2>
 
-  E-Book is a fully responsive e-book website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Login & Signup is a fully responsive Login website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
   <a href="https://adnan-bhaldar.github.io/Login-Signup-page/"><strong>➥ Live Demo</strong></a>
 
@@ -20,7 +20,7 @@
 
 ### Demo Screeshots
 
-![E-Book Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Login & Signup Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
